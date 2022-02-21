@@ -1,0 +1,102 @@
+body{
+    background-color: lightblue;
+}
+h3{
+    font-family: Andale Mono, monospace;
+}
+h2{
+    font-family: Andale Mono, monospace;
+}
+h1{
+    font-family: Andale Mono, monospace;
+}
+.Principal{
+background-color: white;
+margin: 0 150px  0 150px;
+height: 100vh;
+display: grid;
+grid-template-columns: 1fr 70%;
+
+}
+.lado_esquedo{
+background-color:#3b273d;
+}
+.lado_direito{
+    background-color: white ;
+}
+.foto_perfil{
+    margin: 50px 25% 50px 25%;
+    border-radius: 50%;
+    
+}
+.titulo_contato{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.material-icons.icone_branco{
+    color: white;
+}
+.bloco_infor{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    align-items: center;
+}
+.descriçao{
+    font-weight: 600;
+    font-family: Andale Mono, monospace ;
+    margin-left: 14px;
+    color: white;
+}
+
+.titulo_nome{
+    color: #3b273d;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Andale Mono, monospace;
+
+}
+.titulo_infor{
+    color: #3b273d;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Andale Mono, monospace;
+}
+.titulo_corpo{
+    color: #6a257d;
+    text-align: justify;
+  
+    font-family: Andale Mono, monospace;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.titulo_corpo1{
+    color: #6a257d;
+    text-align: center;
+    font-family: Andale Mono, monospace;
+
+}
+.material-icons.icone_branco2{
+    color:#3b273d;
+    margin-left: 10px;
+}
+.descriçao2{
+    color: #6a257d;
+    text-align: justify;
+    font-family: Andale Mono, monospace;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.titulo_corpo2{
+    color: #3b273d;
+    text-align: justify;
+    font-family: Andale Mono, monospace;
+    margin-left: 10px;
+
+}
